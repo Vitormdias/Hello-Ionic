@@ -1,6 +1,6 @@
 # Ionic
-Repository to study Ionic 1 and 2
+Repository to study Ionic
 
 Links:
 
-* [Egghead - Get Started](https://egghead.io/lessons/angularjs-build-and-run-an-ionic-app-from-scratch)
+* [Ionic - Tutorial](https://ionicframework.com/docs/v2/setup/tutorial/)
